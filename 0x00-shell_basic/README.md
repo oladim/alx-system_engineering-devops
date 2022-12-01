@@ -1,2 +1,1 @@
-#!/bin/bash
-Basic bash commands
+where am i
