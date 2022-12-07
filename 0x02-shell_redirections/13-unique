@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -c | grep 1 | sed 's/^ *[0-9]\{1,\} //'| sort -f
+sort -f | uniq -u
